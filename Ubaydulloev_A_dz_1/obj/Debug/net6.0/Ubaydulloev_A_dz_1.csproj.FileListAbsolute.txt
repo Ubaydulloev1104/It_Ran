@@ -13,3 +13,18 @@ C:\Users\azamjon\Desktop\для себя\Ubaydulloev_A_dz_1\obj\Debug\net6.0\ref
 C:\Users\azamjon\Desktop\для себя\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.pdb
 C:\Users\azamjon\Desktop\для себя\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.genruntimeconfig.cache
 C:\Users\azamjon\Desktop\для себя\Ubaydulloev_A_dz_1\obj\Debug\net6.0\ref\Ubaydulloev_A_dz_1.dll
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\bin\Debug\net6.0\Ubaydulloev_A_dz_1.exe
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\bin\Debug\net6.0\Ubaydulloev_A_dz_1.deps.json
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\bin\Debug\net6.0\Ubaydulloev_A_dz_1.runtimeconfig.json
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\bin\Debug\net6.0\Ubaydulloev_A_dz_1.dll
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\bin\Debug\net6.0\Ubaydulloev_A_dz_1.pdb
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.csproj.AssemblyReference.cache
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.AssemblyInfoInputs.cache
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.AssemblyInfo.cs
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.csproj.CoreCompileInputs.cache
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.dll
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\refint\Ubaydulloev_A_dz_1.dll
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.pdb
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\Ubaydulloev_A_dz_1.genruntimeconfig.cache
+C:\Users\azamjon\Source\Repos\Ubaydulloev1104\It_Ran_dz1\Ubaydulloev_A_dz_1\obj\Debug\net6.0\ref\Ubaydulloev_A_dz_1.dll
