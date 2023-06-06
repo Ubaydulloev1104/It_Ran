@@ -1,11 +1,11 @@
 ﻿using task1;
-Product product = new Product();
+
 while (true)
 {
     Console.WriteLine("    Действия:  ");
     Console.WriteLine("1) Паказать список  ");
     Console.WriteLine("2) Добавить новый продуктов");
-    Console.WriteLine("3) Продать продукт");
+    Console.WriteLine("3) Поиск продукт ");
     Console.WriteLine("0) Отключить программу ");
     Console.Write("Выберите действие (Напишите число которые стоит прид действиям ):");
     string action = Console.ReadLine().Trim();
@@ -25,13 +25,12 @@ while (true)
             bool a = int.TryParse(action, out int b);
             if (a)
             {
-
                 int act = int.Parse(action);
                 if (act >= 0 && act <= 3)
                 {
                     if (act == 1)
                     {
-                        string[] n = product.GetProduts();
+                        Product[] n = Product.GetProduts();
                         foreach (var item in n)
                         {
                             Console.WriteLine(item);
@@ -53,12 +52,10 @@ while (true)
                             if (string.IsNullOrEmpty(cou))
                             {
                                 Console.WriteLine($"Количество товара не указонно, по этому поумалчания количество товара {name}=1" + "\n");
-                               
                             }
                             int count = int.Parse(cou);
-                            product.SaveToFile($"{name} {count}");
-
-
+                            Product product = new Product(name, count);
+                            product.SaveToFile();
                         }
                     }
                     else if (act == 3)
@@ -72,27 +69,15 @@ while (true)
                         }
                         else
                         {
-                            Console.Write("Напишите количество товара : ");
-                            string cou = Console.ReadLine().Trim();
-                            if (string.IsNullOrEmpty(cou))
+                            bool ab = Product.ProductExists(name, "Product.txt");
+                            if (ab == true)
                             {
-                                Console.WriteLine($"Количество товара не указонно пожалуста пофтарите действия " + "\n");
+                                Console.WriteLine("Да имеются токое продукт" + "\n");
                             }
                             else
                             {
-                                int count = int.Parse(cou);
-                                bool ab = product.ProductExists(name,count);
-                                if(ab ==true)
-                                {
-                                    Console.WriteLine("Да имеются токое продукт");
-                                }
-                                else
-                                {
-                                    Console.WriteLine("Нет не меются токое продукт");
-                                }
-
+                                Console.WriteLine("Нет не меются токое продукт" + "\n");
                             }
-
                         }
                     }
                     else
@@ -112,8 +97,5 @@ while (true)
                 Console.WriteLine("Напишите число действия от 0 до 3 не буквы" + "\n");
             }
         }
-
     }
-
-
 }

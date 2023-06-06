@@ -9,13 +9,12 @@ namespace task1
 {
     internal class Product
     {
-        string path = "Product.txt";
         public Product()
         {
 
         }
 
-        public Product(string name,int count)
+        public Product(string name, int count)
         {
             Count = count;
             Name = name;
@@ -23,39 +22,43 @@ namespace task1
         public string Name { get; set; }
         public int Count { get; set; }
 
-        public void SaveToFile(string d)
+        public void SaveToFile()
         {
-            using (StreamWriter fstream = new StreamWriter(path,true))
+            using (StreamWriter fstream = new StreamWriter("Product.txt", true))
             {
-                fstream.WriteLine(d);
+                fstream.WriteLine($"{Name} {Count}");
             }
-        
+
         }
-        public string[] GetProduts()
+        public static Product[] GetProduts()
         {
-            string[] products = File.ReadAllLines("Product.txt", Encoding.UTF8);
-            foreach (var item in products)
+            string[] strings = File.ReadAllLines("Product.txt", Encoding.UTF8);
+            Product[] products = new Product[strings.Length];
+            for (int i = 0; i < strings.Length; i++)
             {
-                Console.WriteLine($" {item} ");
+                string s=strings[i];
+                var a=s.Split(' ');
+                string prodocname=a[0];
+                string count = a[1];
+               int ab =int.Parse(count);
+                products[i] = new Product(prodocname, ab);
             }
             return products;
         }
-        public bool ProductExists(string name, int count)
+        public static bool ProductExists(string name, string path)
         {
-           bool exists = false;
-            string[] products = File.ReadAllLines("Product.txt", Encoding.UTF8);
+            string[] products = File.ReadAllLines(path, Encoding.UTF8);
             for (int i = 0; i < products.Length; i++)
             {
                 string product = products[i];
                 var splitted = product.Split(' ');
                 string productName = splitted[0];
-                int countOfProduct = int.Parse(splitted[1]);
                 if (productName == name)
                 {
-                    exists=true;
+                    return true;
                 }
             }
-            return exists;
-        }        
+            return false;
+        }
     }
 }
