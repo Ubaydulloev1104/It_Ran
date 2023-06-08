@@ -1,0 +1,15 @@
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\task_2_1.csproj.AssemblyReference.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\task_2_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\task_2_1.AssemblyInfoInputs.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\task_2_1.AssemblyInfo.cs
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\task_2_1.csproj.CoreCompileInputs.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\bin\Debug\net6.0\task_2_1.exe
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\bin\Debug\net6.0\task_2_1.deps.json
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\bin\Debug\net6.0\task_2_1.runtimeconfig.json
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\bin\Debug\net6.0\task_2_1.dll
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\bin\Debug\net6.0\task_2_1.pdb
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\task_2_1.dll
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\refint\task_2_1.dll
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\task_2_1.pdb
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\task_2_1.genruntimeconfig.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_5\task_2_1\obj\Debug\net6.0\ref\task_2_1.dll
