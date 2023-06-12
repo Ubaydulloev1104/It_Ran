@@ -209,17 +209,15 @@ while (true)
                                             lis.Add($"{productName} {countOfProduct}");
                                         }
                                     }
-                                    using (StreamWriter sws = new StreamWriter("storage.txt"))
+                                }
+                                using (StreamWriter sws = new StreamWriter("storage.txt"))
+                                {
+                                    foreach (var item in lis)
                                     {
-                                        foreach (var item in lis)
-                                        {
-                                            sws.WriteLine(item);
-                                        }
-
+                                        sws.WriteLine(item);
                                     }
 
                                 }
-
                                 //    string[] products = File.ReadAllLines("storage.txt", Encoding.UTF8);
                                 //for (int i = 0; i < products.Length; i++)
                                 //{
