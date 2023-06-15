@@ -1,0 +1,15 @@
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\bin\Debug\net7.0\QueueTask.exe
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\bin\Debug\net7.0\QueueTask.deps.json
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\bin\Debug\net7.0\QueueTask.runtimeconfig.json
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\bin\Debug\net7.0\QueueTask.dll
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\bin\Debug\net7.0\QueueTask.pdb
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\QueueTask.csproj.AssemblyReference.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\QueueTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\QueueTask.AssemblyInfoInputs.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\QueueTask.AssemblyInfo.cs
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\QueueTask.csproj.CoreCompileInputs.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\QueueTask.dll
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\refint\QueueTask.dll
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\QueueTask.pdb
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\QueueTask.genruntimeconfig.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev_A_Dz\Dey_6\QueueTask\obj\Debug\net7.0\ref\QueueTask.dll
