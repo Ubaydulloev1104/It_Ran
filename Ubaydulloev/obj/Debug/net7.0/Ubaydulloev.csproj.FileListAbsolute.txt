@@ -1,0 +1,15 @@
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\Ubaydulloev.csproj.AssemblyReference.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\Ubaydulloev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\Ubaydulloev.AssemblyInfoInputs.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\Ubaydulloev.AssemblyInfo.cs
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\Ubaydulloev.csproj.CoreCompileInputs.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\bin\Debug\net7.0\Ubaydulloev.exe
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\bin\Debug\net7.0\Ubaydulloev.deps.json
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\bin\Debug\net7.0\Ubaydulloev.runtimeconfig.json
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\bin\Debug\net7.0\Ubaydulloev.dll
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\bin\Debug\net7.0\Ubaydulloev.pdb
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\Ubaydulloev.dll
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\refint\Ubaydulloev.dll
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\Ubaydulloev.pdb
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\Ubaydulloev.genruntimeconfig.cache
+C:\Users\azamjon\Desktop\ItRan_C#\Ubaydulloev\obj\Debug\net7.0\ref\Ubaydulloev.dll
