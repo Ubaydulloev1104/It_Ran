@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vx17ceiswedZq2EocSS2tomqfGfiGcb/q8/9wSqVrOPNsjHr0PGL+1bV2WFikyRZIFoELfuX2XFPXm4AyNYz1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\azamjon\\Desktop\\Новая папка\\IT-RUN-master\\DesignPatterns\\MyWarehouse\\MyWarehouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\azamjon\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\azamjon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
