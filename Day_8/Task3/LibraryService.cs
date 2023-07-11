@@ -55,13 +55,7 @@ namespace Task3
             }
             else
             {
-                foreach (var item in books)
-                {
-                    if (item.Title == title)
-                    {
-                        Console.WriteLine(item.ToString());
-                    }
-                }
+               return book;
             }
         }
     }

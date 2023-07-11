@@ -46,7 +46,7 @@ namespace Task1
                 }
             }
         }
-        public void searchBook(string title, string author)
+        public Book searchBook(string title, string author)
         {
             var book = books.FirstOrDefault(x => x.Title == title && x.Author==author);
             if (book == null)
@@ -55,13 +55,7 @@ namespace Task1
             }
             else
             {
-                foreach (var item in books)
-                {
-                    if (item.Title == title)
-                    {
-                        Console.WriteLine(item.ToString());
-                    }
-                }
+                return book;
             }
         }
     }
