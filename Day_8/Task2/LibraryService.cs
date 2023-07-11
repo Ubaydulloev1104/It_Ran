@@ -37,13 +37,14 @@ namespace Task2
             }
             else
             {
-                foreach (var item in books)
-                {
-                    if (item.Title == title)
-                    {
-                        Console.WriteLine(item.ToString());
-                    }
-                }
+                //foreach (var item in books)
+                //{
+                //    if (item.Title == title)
+                //    {
+                //        Console.WriteLine(item.ToString());
+                //    }
+                //}
+                return book;
             }
         }
         public bool searchBook(string title, string author)

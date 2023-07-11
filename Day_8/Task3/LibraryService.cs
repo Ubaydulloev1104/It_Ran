@@ -28,7 +28,7 @@ namespace Task3
             }
             books.Remove(BookToRemove);
         }
-        public void searchBook(string title)
+        public Book searchBook(string title)
         {
             var book = books.FirstOrDefault(x => x.Title == title);
             if (book == null)
@@ -37,16 +37,17 @@ namespace Task3
             }
             else
             {
-                foreach (var item in books)
-                {
-                    if (item.Title == title)
-                    {
-                        Console.WriteLine(item.ToString());
-                    }
-                }
+                //foreach (var item in books)
+                //{
+                //    if (item.Title == title)
+                //    {
+                //        Console.WriteLine(item.ToString());
+                //    }
+                //}
+                return book;
             }
         }
-        public void searchBook(string title, string author)
+        public Book searchBook(string title, string author)
         {
             var book = books.FirstOrDefault(x => x.Title == title && x.Author==author);
             if (book == null)
